@@ -41,7 +41,7 @@
 		<img src="images/chua75.jpg" alt="Amy Chua photo">
 	</main>
 	<footer>
-		<p>&copy; 2018, San Joaquin Valley Town Hall, Fresno, CA 93755</p>
+		<p>&copy;Arun Sandhu A10 IS117 HW</p>
 	</footer>
   Name : Arun Sandhu
   Date : 3/8/20
